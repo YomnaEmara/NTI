@@ -1,5 +1,5 @@
 import numpy as np
-def helloWorld(x=20,y=10):
+def helloWorld(x=100,y=90):
     print (x+y)
 print ("is working")
 helloWorld()
